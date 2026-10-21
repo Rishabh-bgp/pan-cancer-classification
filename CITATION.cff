@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "What Near-Perfect Accuracy Does and Does Not Show on the UCI TCGA Pan-Cancer RNA-Seq Dataset: Leakage, Equivalence, Conformal Reliability and Data Efficiency"
+abstract: "Leakage audit, equivalence testing, calibration/conformal reliability and data-efficiency study on the UCI TCGA Pan-Cancer RNA-Seq dataset (801 tumours, 20,531 genes, five cancer types). Research work carried out as part of the 6-Month Industrial Training & Certification Program in Artificial Intelligence and Machine Learning, jointly offered by IIT Ropar (https://www.iitrpr.ac.in/) and NIELIT Ropar (https://www.nielit.gov.in/ropar/), under MeitY, Govt. of India."
+type: software
+authors:
+  - family-names: Aryan
+    given-names: Rishabh
+    orcid: "https://orcid.org/0009-0004-7595-9440"
+repository-code: "https://github.com/Rishabh-bgp/pan-cancer-classification"
+license: MIT
+date-released: "2026-10-21"
+version: "1.0.0"
+keywords:
+  - gene expression
+  - RNA-Seq
+  - TCGA
+  - cancer classification
+  - data leakage
+  - conformal prediction
+  - machine learning
