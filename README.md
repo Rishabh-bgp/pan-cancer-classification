@@ -84,3 +84,17 @@ See [`CITATION.cff`](CITATION.cff) (GitHub shows a "Cite this repository" button
 ## ⚖️ Licence
 Code and documentation: MIT © 2026 Rishabh Aryan. The dataset in `data/` remains under its original UCI licence
 (see `docs/data.md`).
+
+## 🔗 Related work / Portfolio
+
+Other repositories from my IIT Ropar & NIELIT Ropar AI/ML training:
+
+| Repository | Description | Live |
+|---|---|---|
+| [beed-ml-study](https://github.com/Rishabh-bgp/beed-ml-study) | Provenance audit and leakage-aware benchmark of seizure-type classifiers on the Bangalore EEG Epilepsy Dataset | — |
+| [NIELIT-MACHINE-LEARNING-PROJECTS](https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS) | Nineteen end-to-end machine learning projects | — |
+| [NIELIT-DATA-SCIENCE](https://github.com/Rishabh-bgp/NIELIT-DATA-SCIENCE) | NumPy, Pandas and Matplotlib notebooks for the NIELIT Data Science curriculum | — |
+| [NIELIT-PYTHON-](https://github.com/Rishabh-bgp/NIELIT-PYTHON-) | Python teaching notebooks and five capstone programs | — |
+| [IIT-ROPAR-GENAI-FOUNDATIONS](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS) | Generative AI foundations ebooks from an IIT Ropar AI tools workshop | — |
+| [zoo-website-capstone](https://github.com/Rishabh-bgp/zoo-website-capstone) | Zoo website capstone (simple and advanced versions) | [demo](https://rishabh-bgp.github.io/zoo-website-capstone/) |
+| [logistics-website-capstone](https://github.com/Rishabh-bgp/logistics-website-capstone) | Kargonaut Logistics website capstone (claymorphism, glassmorphism, neumorphism) | [demo](https://rishabh-bgp.github.io/logistics-website-capstone/) |
